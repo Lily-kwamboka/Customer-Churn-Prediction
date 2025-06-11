@@ -4,13 +4,13 @@ This project aims to predict customer churn using the Telco Customer Churn datas
 
 ---
 
-## 📊 Objective
+##  Objective
 
 To build a predictive model that identifies customers at risk of churning, helping the business proactively reduce churn through strategic interventions.
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Pandas, NumPy
@@ -22,7 +22,7 @@ To build a predictive model that identifies customers at risk of churning, helpi
 
 ---
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 
 - Converted `TotalCharges` to numeric and handled missing values.
 - Removed non-predictive columns like `customerID`.
@@ -31,7 +31,7 @@ To build a predictive model that identifies customers at risk of churning, helpi
 
 ---
 
-## 🤖 Modeling
+##  Modeling
 
 ### Logistic Regression (Baseline & Tuned)
 - Achieved ~80–81% accuracy.
@@ -45,7 +45,7 @@ To build a predictive model that identifies customers at risk of churning, helpi
 
 ---
 
-## 🔍 Key Predictive Features
+##  Key Predictive Features
 
 Based on the Random Forest model:
 
@@ -63,7 +63,7 @@ Based on the Random Forest model:
 
 ---
 
-## ✅ Predictive Findings
+##  Predictive Findings
 
 - Customers with **short tenure** and **high monthly charges** are more likely to churn.
 - Those using **electronic checks** or **fiber optic service** show higher churn rates.
@@ -72,7 +72,7 @@ Based on the Random Forest model:
 
 ---
 
-## 💼 Business Recommendations
+##  Business Recommendations
 
 - **Engage short-tenure customers** early with offers and loyalty programs.
 - **Reevaluate high-charge plans** to improve value perception.
@@ -83,14 +83,14 @@ Based on the Random Forest model:
 
 ---
 
-## 📁 Files
+##  Files
 
 - `INDEX.ipynb`: Full Jupyter Notebook with data analysis, model building, and evaluation.
 - `README.md`: Project summary and key takeaways.
 
 ---
 
-## 📌 Future Work
+##  Future Work
 
 - Experiment with ensemble models (e.g., XGBoost, Gradient Boosting).
 - Apply SMOTE or class-weight balancing to improve recall on churn cases.
