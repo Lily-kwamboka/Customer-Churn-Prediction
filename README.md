@@ -1,7 +1,6 @@
 # Telco Customer Churn Prediction
 
-This project aims to predict customer churn using the Telco Customer Churn dataset. Unlike earlier projects that focused on descriptive and inferential analysis, this one emphasizes predictive modeling to uncover patterns and provide actionable business recommendations.
-
+This project aims to predict customer churn using the Telco Customer Churn dataset. This project emphasizes predictive modeling to uncover patterns and provide actionable business recommendations. It predicts which telecom customers are likely to leave the service and it provides insights to help retain them.
 ---
 
 ##  Objective
