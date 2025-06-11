@@ -5,8 +5,17 @@ This project aims to predict customer churn using the Telco Customer Churn datas
 ---
 
 ##  Objective
+Can we accurately predict which customers are likely to churn?
 
-To build a predictive model that identifies customers at risk of churning, helping the business proactively reduce churn through strategic interventions.
+What are the most important factors driving customer churn?
+
+Can we improve business decisions using these predictions?
+
+Where does the model perform well — and where does it struggle?
+
+How should the business intervene to reduce churn?
+
+
 
 ---
 
